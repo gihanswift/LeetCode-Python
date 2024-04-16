@@ -10,7 +10,7 @@ class Solution:
             profit = price - minPrice
             maxPrice = max(maxPrice, profit)
 
-        print(maxPrice)
+
         return maxPrice
 
 
