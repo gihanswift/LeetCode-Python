@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6a13ab3-6022-4aba-89b5-a683f805b187" name="Changes" comment="Completed Max Profit">
-      <change afterPath="$PROJECT_DIR$/RemoveDuplicatesFromSortedArray2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RotateArray.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +80,7 @@
       <workItem from="1712778915693" duration="1183000" />
       <workItem from="1713290234677" duration="1826000" />
       <workItem from="1713331087933" duration="967000" />
-      <workItem from="1713513514709" duration="25526000" />
+      <workItem from="1713513514709" duration="26816000" />
     </task>
     <task id="LOCAL-00001" summary="Completed Merge Two Array">
       <option name="closed" value="true" />
@@ -108,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713291451368</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed Max Profit">
+      <option name="closed" value="true" />
+      <created>1713611817201</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713611817201</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,17 +135,6 @@
     <MESSAGE value="Completed Merge Two Array" />
     <MESSAGE value="Completed Max Profit" />
     <option name="LAST_COMMIT_MESSAGE" value="Completed Max Profit" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/RotateArray.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode___python$MergeTwoArray_LeetCode.coverage" NAME="MergeTwoArray-LeetCode Coverage Results" MODIFIED="1712779314410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
